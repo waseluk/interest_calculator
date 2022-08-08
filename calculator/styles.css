@@ -1,0 +1,28 @@
+/* General - reusable css */
+body {
+    background-color:black;
+    font-family:arial;
+    color:white
+}
+h1{color:grey;
+
+    font-family:verdana;
+}
+/* Secondary styling for div */
+
+.secdiv {
+    padding-left: 60px;
+}
+
+/* main content/div styling */
+.maindiv {
+    align-items: center;
+    background-color: white;
+    color: black;
+    width: 480px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 0 auto;
+
+}
+
